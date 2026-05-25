@@ -1,0 +1,10 @@
+{
+  "name": "com.abhishek.mqjtopicsetup",
+  "version": "1.0.0",
+  "displayName": "MQJ Topic Setup",
+  "description": "MQK Topic Setup Editor Window",
+  "unity": "2021.3",
+  "author": {
+    "name": "Abhishek"
+  }
+}
